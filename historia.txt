@@ -2,8 +2,4 @@ Esta es la historia de Martin Betancur
 
 Estoy adquiriendo conocimientos de Git
 
-Hablaremos de su historia
-
-Nacio en Colombia
-
-Tiene 25 años
+Hablaremos de sus intereses
