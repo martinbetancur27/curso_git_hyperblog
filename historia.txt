@@ -2,6 +2,8 @@ Esta es la historia de Martin Betancur
 
 Estoy adquiriendo conocimientos de Git
 
-Hablaremos de sus intereses
-
 Master 1
+
+Master 2
+
+Hablaremos de sus intereses
