@@ -8,5 +8,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * El verdadero amor por las buenas prácticas
 * Práctica real con Git y Github
 * La mayor parte del aprendizaje fue realizado en la terminal de comandos
+* Recomiendo tomar el curso
 
- **Este readme.md es parte de la buena practica**.
+ **Colocar un readme.md es parte de la buena practica**.
